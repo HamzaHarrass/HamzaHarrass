@@ -482,7 +482,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM8 0a8 8 0 100 16A8 8 0 008 0zm.5 4.75a.75.75 0 00-1.5 0v3.5a.75.75 0 00.471.696l2.5 1a.75.75 0 00.557-1.392L8.5 7.742V4.75z"/>
                             </svg>
-                            On 7 Sept 2023, 16:20:45
+                            On 6 Sept 2023, 22:18:11
                         </div>
                     </section>
                 </div>
@@ -492,13 +492,13 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            methode pour statistique de book emprunté
+                            create methode delete
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm6.5-.25A.75.75 0 017.25 7h1a.75.75 0 01.75.75v2.75h.25a.75.75 0 010 1.5h-2a.75.75 0 010-1.5h.25v-2h-.25a.75.75 0 01-.75-.75zM8 6a1 1 0 100-2 1 1 0 000 2z"/>
                             </svg>
-                            <span class="code">459943a5</span>
+                            <span class="code">c454a971</span>
                             <span class="code">src/Main.java</span>
                             <span class="code">
                                 <span class="snippet additions">++2</span>
@@ -510,14 +510,14 @@
                 <div class="row">
                     <section class="snippet">
                         <div class="body markdown">
-                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -7,6 +7,7 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">    //BookService.FindBook();<br /></span><span class="token prefix unchanged">·</span><span class="token line">    //BookService.ChercherTitleBook();<br /></span><span class="token prefix unchanged">·</span><span class="token line">    //BookService.ChercherAuteurBook();<br /></span></span><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">    BookService.StatistiqueBookDisponible();<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">    //BookService.StatistiqueBookDisponible();<br /></span><span class="token prefix inserted">+</span><span class="token line">    BookService.StatistiqueBoukEmprunte();<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">}<br /></span><span class="token prefix unchanged">·</span><span class="token line">}</span></span></code>
+                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -3,6 +3,7 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">public class Main {<br /></span><span class="token prefix unchanged">·</span><span class="token line">public static void main(String[] args) {<br /></span><span class="token prefix unchanged">·</span><span class="token line">    //BookService.AddBook();<br /></span></span><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">    BookService.UpdateBook();<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">    //BookService.UpdateBook();<br /></span><span class="token prefix inserted">+</span><span class="token line">    BookService.DeleteBook();<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">}<br /></span><span class="token prefix unchanged">·</span><span class="token line">}</span></span></code>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 9 Sept 2023, 05:14:33 (timezone Africa/Casablanca) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 9 Sept 2023, 06:11:11 (timezone Africa/Casablanca) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
