@@ -12,12 +12,12 @@ Je suis un développeur frontend passionné par la création d'expériences web 
 
 ## Technologies que je maîtrise
 
-- HTML
-- CSS
-- JavaScript
-- Node.js
-- Express.js
-- React
+- 💻 HTML
+- 🎨 CSS
+- 🚀 JavaScript
+- 📡 Node.js
+- ⚙️ Express.js
+- ⚛️ React
 
 ## Ce que je fais
 
