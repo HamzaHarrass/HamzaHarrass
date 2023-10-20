@@ -1,1 +1,32 @@
-![Metrics](https://metrics.lecoq.io/HamzaHarrass?template=classic&gists=1&leetcode=1&skyline=1&achievements=1&tweets=1&calendar=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&calendar=false&calendar.limit=1&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&gists=false&skyline=false&skyline.year=current-year&skyline.frames=60&skyline.quality=0.5&skyline.compatibility=false&skyline.settings=%7B%0A%20%20%22url%22%3A%20%22https%3A%2F%2Fskyline.github.com%2F%24%7Blogin%7D%2F%24%7Byear%7D%22%2C%0A%20%20%22ready%22%3A%20%22%5B...document.querySelectorAll('span')%5D.map(span%20%3D%3E%20span.innerText).includes('Share%20on%20Twitter')%22%2C%0A%20%20%22wait%22%3A%201%2C%0A%20%20%22hide%22%3A%20%22button%2C%20footer%2C%20a%22%0A%7D%0A&tweets=false&tweets.user=.user.twitter&tweets.attachments=false&tweets.limit=2&leetcode=false&leetcode.user=.user.login&leetcode.sections=solved&leetcode.limit.skills=10&leetcode.limit.recent=2&config.timezone=Africa%2FCasablanca)
+# Bonjour, je suis Hamza Harrass 👋
+
+Je suis un développeur frontend passionné par la création d'expériences web exceptionnelles. Mon objectif est de développer des interfaces utilisateur attrayantes et réactives en utilisant les dernières technologies web.
+
+## À propos de moi
+
+- 🌟 **Nom complet:** Hamza Harrass
+- 💼 **Profession:** Développeur Frontend
+- 🌐 **Localisation:** [MAROC - MEKNES ]
+
+## Technologies que je maîtrise
+
+- HTML
+- CSS
+- JavaScript
+- Node.js
+- Express.js
+- React
+
+## Ce que je fais
+
+- 💻 Je crée des sites web modernes et conviviaux.
+- 🚀 J'aime travailler avec des frameworks et des bibliothèques frontend pour optimiser le développement.
+- 📚 Je suis toujours en train d'apprendre de nouvelles choses et de rester à jour avec les dernières tendances en développement web.
+
+## Comment me contacter
+
+Vous pouvez me contacter via [Hamza Harrass](https://github.com/HamzaHarrass). N'hésitez pas à m'envoyer un message si vous souhaitez discuter de projets, de collaborations ou simplement discuter de développement web.
+
+N'hésitez pas à explorer mes projets GitHub pour en savoir plus sur mes travaux et compétences. Je suis toujours ouvert aux opportunités de collaboration et d'apprentissage !
+
+Merci d'avoir visité mon profil. 😊
