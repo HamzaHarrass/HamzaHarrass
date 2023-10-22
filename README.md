@@ -1,16 +1,16 @@
-# Bonjour, je suis Hamza Harrass 👋
+# Hi there, I'm Hamza Harrass! 👋
 
-Je suis un développeur frontend passionné par la création d'expériences web exceptionnelles. Mon objectif est de développer des interfaces utilisateur attrayantes et réactives en utilisant les dernières technologies web.
+I'm a passionate frontend developer dedicated to crafting exceptional web experiences. My goal is to create attractive and responsive user interfaces using the latest web technologies.
 
-## À propos de moi
+## About Me
 
-- 🌟 **Nom complet:** Hamza Harrass
-- 💼 **Profession:** Développeur Frontend
-- 🌐 **Localisation:** [MAROC - MEKNES ]
--  ✉️ **E-mail:** [hamzaharrass05@gmail.com]
-- ☎️ **Téléphone:** [+212 680927972]
+- 🌟 **Full Name:** Hamza Harrass
+- 💼 **Profession:** Frontend Developer
+- 🌐 **Location:** [MOROCCO - MEKNES]
+- ✉️ **Email:** [hamzaharrass05@gmail.com](mailto:hamzaharrass05@gmail.com)
+- ☎️ **Phone:** [+212 680927972]
 
-## Technologies que je maîtrise
+## Technologies I Master
 
 - 💻 HTML
 - 🎨 CSS
@@ -19,16 +19,16 @@ Je suis un développeur frontend passionné par la création d'expériences web 
 - ⚙️ Express.js
 - ⚛️ React
 
-## Ce que je fais
+## What I Do
 
-- 💻 Je crée des sites web modernes et conviviaux.
-- 🚀 J'aime travailler avec des frameworks et des bibliothèques frontend pour optimiser le développement.
-- 📚 Je suis toujours en train d'apprendre de nouvelles choses et de rester à jour avec les dernières tendances en développement web.
+- 💻 I create modern and user-friendly websites.
+- 🚀 I love working with frontend frameworks and libraries to streamline development.
+- 📚 I'm always learning and staying up-to-date with the latest web development trends.
 
-## Comment me contacter
+## Get in Touch
 
-Vous pouvez me contacter via [Hamza Harrass](https://github.com/HamzaHarrass). N'hésitez pas à m'envoyer un message si vous souhaitez discuter de projets, de collaborations ou simplement discuter de développement web.
+Feel free to reach out to me via [Hamza Harrass on GitHub](https://github.com/HamzaHarrass). Don't hesitate to send a message if you want to discuss projects, collaborations, or simply chat about web development.
 
-N'hésitez pas à explorer mes projets GitHub pour en savoir plus sur mes travaux et compétences. Je suis toujours ouvert aux opportunités de collaboration et d'apprentissage !
+Explore my GitHub projects to learn more about my work and skills. I'm always open to collaboration and learning opportunities!
 
-Merci d'avoir visité mon profil. 😊
+Thanks for visiting my profile. 😊
