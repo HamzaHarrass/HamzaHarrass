@@ -28,14 +28,14 @@ Ce tableau présente les technologies que je maîtrise, avec des logos pour les 
 
 | Technologie | Logo | Description |
 |---|---|---|
-| MySQL | ![Logo MySQL](https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/MySQL_logo.svg/256px-MySQL_logo.svg.png) | Système de gestion de base de données relationnelle. |
-| MongoDB | ![Logo MongoDB](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/MongoDB_logo.svg/256px-MongoDB_logo.svg.png) | Système de gestion de base de données NoSQL. |
-| SQL | ![Logo SQL](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/SQL_logo.svg/256px-SQL_logo.svg.png) | Langage de requête pour les bases de données relationnelles. |
-| Postman | ![Logo Postman](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Postman_logo.svg/256px-Postman_logo.svg.png) | Outil d'API. |
-| Docker | ![Logo Docker](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Docker_logo.svg/256px-Docker_logo.svg.png) | Plateforme d'automatisation de conteneurs. |
-| Git | ![Logo Git](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Git_logo.svg/256px-Git_logo.svg.png) | Système de gestion de versions. |
-| Jira | ![Logo Jira](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Jira_logo.svg/256px-Jira_logo.svg.png) | Outil de gestion de projet. |
-| UML | ![Logo UML](https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Unified_Modeling_Language_logo.svg/256px-Unified_Modeling_Language_logo.svg.png) | Langage de modélisation unifié. |
+| MySQL | ![Logo MySQL](https://cdn4.iconfinder.com/data/icons/logos-3/181/MySQL-50.png) | Système de gestion de base de données relationnelle. |
+| MongoDB | ![Logo MongoDB](https://cdn4.iconfinder.com/data/icons/logos-3/512/mongodb-2-50.png) | Système de gestion de base de données NoSQL. |
+| SQL | ![Logo SQL](https://cdn1.iconfinder.com/data/icons/big-data-34/64/SQL-database-format-file-web-50.png) | Langage de requête pour les bases de données relationnelles. |
+| Postman | ![Logo Postman](https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/postman-50.png) | Outil d'API. |
+| Docker | ![Logo Docker](https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/97_Docker_logo_logos-50.png) | Plateforme d'automatisation de conteneurs. |
+| Git | ![Logo Git](https://cdn3.iconfinder.com/data/icons/social-media-2169/24/social_media_social_media_logo_git-50.png) | Système de gestion de versions. |
+| Jira | ![Logo Jira](https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/184_Jira_logo_logos-50.png) | Outil de gestion de projet. |
+| UML | ![Logo UML](https://cdn4.iconfinder.com/data/icons/enterprise-architecture-artifacts/512/Use-Case-50.png) | Langage de modélisation unifié. |
 
 
 
