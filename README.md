@@ -2,8 +2,9 @@
 
 $${\color{red}Bonjour, \space \color{lightblue}je \space suis \space \color{orange}Hamza \space Harrass 👋}$$
 
+$${\color{lightblue}je \space suis \space un \space développeur \space frontend \space passionné \space par \space la \space création \space d'expériences \space web \space exceptionnelles.\space Mon \space objectif \space est \space de \space développer \space des \space interfaces \space utilisateur \space attrayantes \space et \space réactives \space en \space utilisant \space les \space dernières \space technologies \space web.
+ 👋}$$
 
-Je suis un développeur frontend passionné par la création d'expériences web exceptionnelles. Mon objectif est de développer des interfaces utilisateur attrayantes et réactives en utilisant les dernières technologies web.
 <h2 align="center"> À propos de moi</h2>
 
 ```js
