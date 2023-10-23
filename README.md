@@ -16,8 +16,8 @@ Ce tableau présente les technologies que je maîtrise, avec des logos pour les 
 
 | Technologie | Logo | Description |
 |---|---|---|
-| HTML | ![Logo HTML](https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/167_Html5_logo_logos-40.png)| Langage de balisage hypertexte utilisé pour structurer les pages Web. |
-| CSS | ![Logo CSS](https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-css-3-35.png)| Langage de feuille de style utilisé pour styliser les pages Web. |
+| HTML | ![Logo HTML](https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/167_Html5_logo_logos-512.png) | 250px | Langage de balisage hypertexte utilisé pour structurer les pages Web. |
+| CSS | ![Logo CSS](https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-css-3-50.png) | 50px | Langage de feuille de style utilisé pour styliser les pages Web. |
 | JavaScript | ![Logo JavaScript](https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/JavaScript_logo.svg/256px-JavaScript_logo.svg.png) | Langage de programmation côté client utilisé pour ajouter de l'interactivité aux pages Web. |
 | Node.js | ![Logo Node.js](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Node-js-logo.svg/256px-Node-js-logo.svg.png) | Plateforme de développement JavaScript côté serveur. |
 | Express.js | ![Logo Express.js](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Express_logo.svg/256px-Express_logo.svg.png) | Framework Node.js pour créer des applications Web. |
@@ -36,6 +36,7 @@ Ce tableau présente les technologies que je maîtrise, avec des logos pour les 
 | Git | ![Logo Git](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Git_logo.svg/256px-Git_logo.svg.png) | Système de gestion de versions. |
 | Jira | ![Logo Jira](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Jira_logo.svg/256px-Jira_logo.svg.png) | Outil de gestion de projet. |
 | UML | ![Logo UML](https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Unified_Modeling_Language_logo.svg/256px-Unified_Modeling_Language_logo.svg.png) | Langage de modélisation unifié. |
+
 
 
 
