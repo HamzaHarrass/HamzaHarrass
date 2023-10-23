@@ -18,6 +18,7 @@ Je suis un développeur frontend passionné par la création d'expériences web 
 - 📡 Node.js
 - ⚙️ Express.js
 - ⚛️ React
+- 🖌️ Figma
 
 ## Ce que je fais
 
