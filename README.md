@@ -12,28 +12,31 @@ Je suis un développeur frontend passionné par la création d'expériences web 
 
 # Technologies maîtrisées
 
+Ce tableau présente les technologies que je maîtrise, avec des logos pour les identifier plus facilement.
+
 | Technologie | Logo | Description |
 |---|---|---|
-| HTML | ![HTML logo](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png) | Langage de balisage pour la création de pages web |
-| CSS | ![CSS logo](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/CSS3_logo.svg/1200px-CSS3_logo.svg.png) | Langage de feuille de style pour la mise en forme des pages web |
-| JavaScript | ![JavaScript logo](https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/JavaScript-logo.svg/1200px-JavaScript-logo.svg.png) | Langage de script côté client pour l'interactivité des pages web |
-| Node.js | ![Node.js logo](https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Node.js_logo.svg/1200px-Node.js_logo.svg.png) | Plateforme JavaScript côté serveur |
-| Express.js | ![Express.js logo](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Express_logo.svg/1200px-Express_logo.svg.png) | Framework web basé sur Node.js |
-| React | ![React logo](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React_logo.svg/1200px-React_logo.svg.png) | Framework JavaScript pour la création d'interfaces utilisateur |
-| Figma | ![Figma logo](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Figma_logo.svg/1200px-Figma_logo.svg.png) | Logiciel de conception graphique |
+| HTML | [![HTML5 Powered with CSS3 / Styling, and Semantics](https://www.w3.org/html/logo/badge/html5-badge-h-css3-semantics.png)](https://www.w3.org/html/) | Langage de balisage hypertexte utilisé pour structurer les pages Web. |
+| CSS | ![Logo CSS](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/CSS3_logo.svg/256px-CSS3_logo.svg.png) | Langage de feuille de style utilisé pour styliser les pages Web. |
+| JavaScript | ![Logo JavaScript](https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/JavaScript_logo.svg/256px-JavaScript_logo.svg.png) | Langage de programmation côté client utilisé pour ajouter de l'interactivité aux pages Web. |
+| Node.js | ![Logo Node.js](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Node-js-logo.svg/256px-Node-js-logo.svg.png) | Plateforme de développement JavaScript côté serveur. |
+| Express.js | ![Logo Express.js](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Express_logo.svg/256px-Express_logo.svg.png) | Framework Node.js pour créer des applications Web. |
+| React | ![Logo React](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/React-icon.svg/256px-React-icon.svg.png) | Framework JavaScript pour créer des interfaces utilisateur. |
+| Figma | ![Logo Figma](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Figma_logo.svg/256px-Figma_logo.svg.png) | Application de conception graphique vectorielle. |
 
 **Technologies ajoutées**
 
 | Technologie | Logo | Description |
 |---|---|---|
-| MySQL | ![MySQL logo](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/MySQL_logo.svg/1200px-MySQL_logo.svg.png) | Système de gestion de base de données relationnelle |
-| MongoDB | ![MongoDB logo](https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/MongoDB_logo.svg/1200px-MongoDB_logo.svg.png) | Système de gestion de base de données non relationnelle |
-| SQL | ![SQL logo](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/SQL_logo.svg/1200px-SQL_logo.svg.png) | Langage de requête pour les bases de données |
-| Postman | ![Postman logo](https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Postman_logo.svg/1200px-Postman_logo.svg.png) | Outil d'API |
-| Docker | ![Docker logo](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Docker_logo.svg/1200px-Docker_logo.svg.png) | Plateforme de conteneurisation |
-| Git | ![Git logo](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Git_logo.svg/1200px-Git_logo.svg.png) | Système de gestion de versions |
-| Jira | ![Jira logo](https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Jira_logo.svg/1200px-Jira_logo.svg.png) | Logiciel de gestion de projets |
-| UML | ![UML logo](https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Unified_Modeling_Language_logo.svg/1200px-Unified_Modeling_Language_logo.svg.png) | Langage de modélisation unifié |
+| MySQL | ![Logo MySQL](https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/MySQL_logo.svg/256px-MySQL_logo.svg.png) | Système de gestion de base de données relationnelle. |
+| MongoDB | ![Logo MongoDB](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/MongoDB_logo.svg/256px-MongoDB_logo.svg.png) | Système de gestion de base de données NoSQL. |
+| SQL | ![Logo SQL](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/SQL_logo.svg/256px-SQL_logo.svg.png) | Langage de requête pour les bases de données relationnelles. |
+| Postman | ![Logo Postman](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Postman_logo.svg/256px-Postman_logo.svg.png) | Outil d'API. |
+| Docker | ![Logo Docker](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Docker_logo.svg/256px-Docker_logo.svg.png) | Plateforme d'automatisation de conteneurs. |
+| Git | ![Logo Git](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Git_logo.svg/256px-Git_logo.svg.png) | Système de gestion de versions. |
+| Jira | ![Logo Jira](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Jira_logo.svg/256px-Jira_logo.svg.png) | Outil de gestion de projet. |
+| UML | ![Logo UML](https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Unified_Modeling_Language_logo.svg/256px-Unified_Modeling_Language_logo.svg.png) | Langage de modélisation unifié. |
+
 
 
 ## Ce que je fais
