@@ -2,10 +2,10 @@
 
 $${\color{red}Bonjour, \space \color{lightblue}je \space suis \space \color{orange}Hamza \space Harrass 👋}$$
 
-$${\color{lightblue}je \space suis \space un \space développeur \space frontend \space passionné \space par \space la \space création \space d'expériences \space web \space exceptionnelles.}$$
+$${\color{white}je \space suis \space un \space développeur \space frontend \space passionné \space par \space la \space création \space d'expériences \space web \space exceptionnelles.}$$
 
 
-$${ \color{lightblue}Mon \space objectif \space est \space de \space développer \space des \space interfaces \space utilisateur \space attrayantes \space et \space réactives \space en \space utilisant \space  les \space  dernières \space  technologies \space web.}$$
+$${ \color{white}Mon \space objectif \space est \space de \space développer \space des \space interfaces \space utilisateur \space attrayantes \space et \space réactives \space en \space utilisant \space  les \space  dernières \space  technologies \space web.}$$
 
 
 
@@ -27,7 +27,8 @@ class Me extends Person {
 
 <h2 align="center"">Technologies maîtrisées 💻</h2>
 
-Ce tableau présente les technologies que je maîtrise, avec des logos pour les identifier plus facilement.
+$${\color{green}Ce \space tableau \space présente \space les \space technologies \space que \space je \space maîtrise,\space avec \space des \space logos \space pour \space les \space identifier \space plus \space facilement.}$$
+
 
  <div align="">
       <img align="right"  alt="Coding" width="395" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
