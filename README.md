@@ -31,8 +31,8 @@ Ce tableau présente les technologies que je maîtrise, avec des logos pour les 
 | CSS | ![Logo CSS](https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-css-3-50.png) | Langage de feuille de style utilisé pour styliser les pages Web. |
 | JavaScript | ![Logo JavaScript](https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/187_Js_logo_logos-50.png) | Langage de programmation côté client utilisé pour ajouter de l'interactivité aux pages Web. |
 | React | ![Logo React](https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-50.png) | Framework JavaScript pour créer des interfaces utilisateur. |
-| Tailwind CSS | ![Logo Tailwind CSS](https://tailwindcss.com/_next/static/images/twitter-8dd32de9e8af15048c343d38ee2ff23d-50.png) | Framework CSS pour la conception de sites Web avec utilisation de classes utilitaires. |
-| Bootstrap | ![Logo Bootstrap](https://getbootstrap.com/docs/5.0/assets/brand/bootstrap-social-logo-50.png) | Framework CSS pour la conception réactive de sites Web et d'applications. |
+| Tailwind CSS | ![Logo Tailwind CSS]([https://tailwindcss.com/_next/static/images/twitter-8dd32de9e8af15048c343d38ee2ff23d-50.png](https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/tailwind-css-icon.png)) | Framework CSS pour la conception de sites Web avec utilisation de classes utilitaires. |
+| Bootstrap | ![Logo Bootstrap]([https://getbootstrap.com/docs/5.0/assets/brand/bootstrap-social-logo-50.png](https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/bootstrap-5-logo-icon.png)) | Framework CSS pour la conception réactive de sites Web et d'applications. |
 
 
 **Backend:**
