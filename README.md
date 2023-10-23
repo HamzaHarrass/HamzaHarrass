@@ -1,3 +1,4 @@
+![Cover](https://raw.githubusercontent.com/MEZ901/MEZ901/main/assets/header.svg)
 # Bonjour, je suis Hamza Harrass 👋
 
 Je suis un développeur frontend passionné par la création d'expériences web exceptionnelles. Mon objectif est de développer des interfaces utilisateur attrayantes et réactives en utilisant les dernières technologies web.
