@@ -20,7 +20,7 @@ Ce tableau présente les technologies que je maîtrise, avec des logos pour les 
 | CSS | ![Logo CSS](https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-css-3-50.png) | Langage de feuille de style utilisé pour styliser les pages Web. |
 | JavaScript | ![Logo JavaScript](https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/187_Js_logo_logos-50.png) | Langage de programmation côté client utilisé pour ajouter de l'interactivité aux pages Web. |
 | Node.js | ![Logo Node.js](https://cdn0.iconfinder.com/data/icons/long-shadow-web-icons/512/nodejs-50.png) | Plateforme de développement JavaScript côté serveur. |
-| Express | <span style="color:red">Express</span> | Framework Node.js pour créer des applications Web. |
+| Express.js | ![Logo Express.js](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg) | Framework Node.js pour créer des applications Web. |
 | React | ![Logo React](https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-50.png) | Framework JavaScript pour créer des interfaces utilisateur. |
 | Figma | ![Logo Figma](https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/3000/figma-logo-50.png) | Application de conception graphique vectorielle. |
 
