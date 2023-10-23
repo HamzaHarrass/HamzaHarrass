@@ -1,7 +1,8 @@
 ![Cover](https://raw.githubusercontent.com/HamzaHarrass/HamzaHarrass/13f43fc1710983d99efdee58ab8980a63b04e2e6/assets/header.svg)
 
+$${\color{red}Bonjour, \space \color{lightblue}je \space suis \space \color{orange}Hamza \space Harrass 👋}$$
 
-<h2 align="center"">Bonjour, je suis Hamza Harrass 👋</h2>
+
 Je suis un développeur frontend passionné par la création d'expériences web exceptionnelles. Mon objectif est de développer des interfaces utilisateur attrayantes et réactives en utilisant les dernières technologies web.
 <h2 align="center"> À propos de moi</h2>
 
