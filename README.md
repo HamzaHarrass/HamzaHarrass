@@ -4,11 +4,18 @@ Je suis un développeur frontend passionné par la création d'expériences web 
 
 ## À propos de moi
 
-- 🌟 **Nom complet:** Hamza Harrass
-- 💼 **Profession:** Développeur Frontend
-- 🌐 **Localisation:** [MAROC - MEKNES]
-- ✉️ **E-mail:** [hamzaharrass05@gmail.com](mailto:hamzaharrass05@gmail.com)
-- ☎️ **Téléphone:** [+212 680927972]
+```
+class Me extends Person {
+  constructor() {
+    super();
+    this.name = "Hamza Harrass";
+    this.profession = "Développeur Frontend";
+    this.location = "MAROC - MEKNES";
+    this.email = "hamzaharrass05@gmail.com";
+    this.phone = "+212 680927972";
+  }
+}
+```
 
 # Technologies maîtrisées
 
