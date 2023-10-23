@@ -87,16 +87,39 @@ $${\color{green}Ce \space tableau \space présente \space les \space technologie
 </div>
 
 
-## Ce que je fais
+<h2 align="center"">Ce que je fais</h2>
 
-- 💻 Je crée des sites web modernes et conviviaux.
-- 🚀 J'aime travailler avec des frameworks et des bibliothèques frontend pour optimiser le développement.
-- 📚 Je suis toujours en train d'apprendre de nouvelles choses et de rester à jour avec les dernières tendances en développement web.
 
-## Comment me contacter
 
-Vous pouvez me contacter via [Hamza Harrass sur GitHub](https://github.com/HamzaHarrass). N'hésitez pas à m'envoyer un message si vous souhaitez discuter de projets, de collaborations ou simplement discuter de développement web.
+$${\color{white}- 💻\space Je \space crée \space des \space sites \space web \space modernes \space et \space conviviaux.}$$
+
+
+
+$${\color{white}- 🚀J'aime \space travailler \space avec \space des \space frameworks \space et \space des \space bibliothèques \space frontend \space pour \space optimiser \space le \space développement.}$$
+
+
+
+$${\color{white}- 📚Je\space suis \space toujours \space en \space train \space d'apprendre \space de \space nouvelles \space choses \space et \space de \space rester \space à \space jour \space avec \space les \space dernières \space tendances \space en \space développement \space web.}$$
+
+
+<h2 align="center"">Comment me contacter</h2>
+
+
+
+
+$${\color{white}Vous \space me \space contacter \space  via \space }$$ 
+
+[![](https://img.shields.io/badge/github-blue?style=for-the-badge)](https://github.com/HamzaHarrass)
+[![](https://img.shields.io/badge/Email-Me%20Now-blue?style=for-the-badge)](hamzaharrass05@gmail.com)
+
+
+
+$${\color{white}\space N'hésitez \space pas \space à \space  m'envoyer \space un \space message \space si \space vous \space souhaitez \space discuter \space de \space projets, \space de \space collaborations \space ou \space simplement \space discuter \space de \space développement \space web.
+}$$
+
 
 N'hésitez pas à explorer mes projets GitHub pour en savoir plus sur mes travaux et compétences. Je suis toujours ouvert aux opportunités de collaboration et d'apprentissage !
 
 Merci d'avoir visité mon profil. 😊
+
+
