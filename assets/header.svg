@@ -59,7 +59,7 @@
     </defs>
 
     <symbol id="s-text">
-        <text text-anchor="middle" x="50%" y="80%">DEVELOPER</text>
+        <text text-anchor="middle" x="50%" y="80%">&lt;DEVELOPER/&gt;</text>
     </symbol>
 
     <g class="g-ants">
