@@ -14,15 +14,17 @@ Je suis un développeur frontend passionné par la création d'expériences web 
 
 Ce tableau présente les technologies que je maîtrise, avec des logos pour les identifier plus facilement.
 
+##Frontend Technologies:
+
 | Technologie | Logo | Description |
 |---|---|---|
-| HTML | ![Logo HTML](https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/167_Html5_logo_logos-50.png) | Langage de balisage hypertexte utilisé pour structurer les pages Web. |
-| CSS | ![Logo CSS](https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-css-3-50.png) | Langage de feuille de style utilisé pour styliser les pages Web. |
-| JavaScript | ![Logo JavaScript](https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/187_Js_logo_logos-50.png) | Langage de programmation côté client utilisé pour ajouter de l'interactivité aux pages Web. |
-| Node.js | ![Logo Node.js](https://cdn0.iconfinder.com/data/icons/long-shadow-web-icons/512/nodejs-50.png) | Plateforme de développement JavaScript côté serveur. |
-| Express.js | ![Logo Express.js](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg) | Framework Node.js pour créer des applications Web. |
+| HTML | ![Logo HTML]([https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/167_Html5_logo_logos-50.png](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg)) | Langage de balisage hypertexte utilisé pour structurer les pages Web. |
+| CSS | ![Logo CSS]([https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-css-3-50.png](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg)) | Langage de feuille de style utilisé pour styliser les pages Web. |
+| JavaScript | ![Logo JavaScript]([https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/187_Js_logo_logos-50.png](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg)) | Langage de programmation côté client utilisé pour ajouter de l'interactivité aux pages Web. |
 | React | ![Logo React](https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-50.png) | Framework JavaScript pour créer des interfaces utilisateur. |
-| Figma | ![Logo Figma](https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/3000/figma-logo-50.png) | Application de conception graphique vectorielle. |
+| Tailwind CSS | ![Logo Tailwind CSS](https://tailwindcss.com/_next/static/images/twitter-8dd32de9e8af15048c343d38ee2ff23d.png) | Framework CSS pour la conception de sites Web avec utilisation de classes utilitaires. |
+| Bootstrap | ![Logo Bootstrap](https://getbootstrap.com/docs/5.0/assets/brand/bootstrap-social-logo.png) | Framework CSS pour la conception réactive de sites Web et d'applications.
+
 
 **Technologies ajoutées**
 
