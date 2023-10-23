@@ -116,13 +116,12 @@ $${\color{orange}Vous \space me \space contacter \space  via \space }$$
 
 
 
-$${\color{white}\space N'hésitez \space pas \space à \space  m'envoyer \space un \space message \space si \space vous \space souhaitez \space discuter \space de \space projets, \space de \space collaborations \space ou \space simplement \space discuter \space de \space développement \space web.
-}$$
+
+$\color{white}{\space N'hésitez \space pas \space à \space  m'envoyer \space un \space message \space si \space vous \space souhaitez \space discuter \space de \space projets, \space de \space collaborations \space ou \space simplement \space discuter \space de \space développement \space web.}$
 
 
 
-$${\color{white}N'hésitez \space pas \space à \space explorer \space mes \space projets \space GitHub \space pour \space en \space savoir \space plus \space sur \space mes \space travaux \space et \space compétences.\space Je \space suis \space toujours \space ouvert \space aux \space opportunités \space de \space collaboration \space et \space d'apprentissage !}$$
-
+$\color{white}{N'hésitez \space pas \space à \space explorer \space mes \space projets \space GitHub \space pour \space en \space savoir \space plus \space sur \space mes \space travaux \space et \space compétences.\space Je \space suis \space toujours \space ouvert \space aux \space opportunités \space de \space collaboration \space et \space d'apprentissage !}$
 
 
 
