@@ -27,7 +27,7 @@ class Me extends Person {
 
 <h2 align="center"">Technologies maîtrisées 💻</h2>
 
-$${\color{green}Ce \space tableau \space présente \space les \space technologies \space que \space je \space maîtrise,\space avec \space des \space logos \space pour \space les \space identifier \space plus \space facilement.}$$
+$${\color{orange}Ce \space tableau \space présente \space les \space technologies \space que \space je \space maîtrise,\space avec \space des \space logos \space pour \space les \space identifier \space plus \space facilement.}$$
 
 
  <div align="">
@@ -91,15 +91,15 @@ $${\color{green}Ce \space tableau \space présente \space les \space technologie
 
 
 
-$${\color{white}- 💻\space Je \space crée \space des \space sites \space web \space modernes \space et \space conviviaux.}$$
+$${\color{lightblue}💻\space Je \space crée\color{white} \space des \space sites \space web \space modernes \space et \space conviviaux.}$$
 
 
 
-$${\color{white}- 🚀J'aime \space travailler \space avec \space des \space frameworks \space et \space des \space bibliothèques \space frontend \space pour \space optimiser \space le \space développement.}$$
+$${\color{lightblue}🚀J'aime \space \color{white} travailler \space avec \space des \space frameworks \space et \space des \space bibliothèques \space frontend \space pour \space optimiser \space le \space développement.}$$
 
 
 
-$${\color{white}- 📚Je\space suis \space toujours \space en \space train \space d'apprendre \space de \space nouvelles \space choses \space et \space de \space rester \space à \space jour \space avec \space les \space dernières \space tendances \space en \space développement \space web.}$$
+$${\color{lightblue}📚Je\space suis \space  \color{white} toujours \space en \space train \space d'apprendre \space de \space nouvelles \space choses \space et \space de \space rester \space à \space jour \space avec \space les \space dernières \space tendances \space en \space développement \space web.}$$
 
 
 <h2 align="center"">Comment me contacter</h2>
@@ -107,10 +107,12 @@ $${\color{white}- 📚Je\space suis \space toujours \space en \space train \spac
 
 
 
-$${\color{white}Vous \space me \space contacter \space  via \space }$$ 
+$${\color{orange}Vous \space me \space contacter \space  via \space }$$ 
 
-[![](https://img.shields.io/badge/github-blue?style=for-the-badge)](https://github.com/HamzaHarrass)
+[![](https://img.shields.io/badge/github-blueviolet?style=for-the-badge)](https://github.com/HamzaHarrass)
 [![](https://img.shields.io/badge/Email-Me%20Now-red?style=for-the-badge)](mailto:hamzaharrass05@gmail.com)
+[![](https://img.shields.io/badge/LinkedIn-Connect%20with%20Me-blue?style=for-the-badge)](https://www.linkedin.com/in/hamzahrs/)
+
 
 
 
@@ -118,8 +120,13 @@ $${\color{white}\space N'hésitez \space pas \space à \space  m'envoyer \space 
 }$$
 
 
-N'hésitez pas à explorer mes projets GitHub pour en savoir plus sur mes travaux et compétences. Je suis toujours ouvert aux opportunités de collaboration et d'apprentissage !
 
-Merci d'avoir visité mon profil. 😊
+$${\color{white}N'hésitez \space pas \space à \space explorer \space mes \space projets \space GitHub \space pour \space en \space savoir \space plus \space sur \space mes \space travaux \space et \space compétences.\space Je \space suis \space toujours \space ouvert \space aux \space opportunités \space de \space collaboration \space et \space d'apprentissage !}$$
+
+
+
+
+$${\color{wihte}Merci \space d'avoir \space visité \space mon \space profil. \space 😊}$$
+
 
 
