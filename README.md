@@ -110,7 +110,7 @@ $${\color{white}- 📚Je\space suis \space toujours \space en \space train \spac
 $${\color{white}Vous \space me \space contacter \space  via \space }$$ 
 
 [![](https://img.shields.io/badge/github-blue?style=for-the-badge)](https://github.com/HamzaHarrass)
-[![](https://img.shields.io/badge/Email-Me%20Now-blue?style=for-the-badge)](hamzaharrass05@gmail.com)
+[![](https://img.shields.io/badge/Email-Me%20Now-red?style=for-the-badge)](mailto:hamzaharrass05@gmail.com)
 
 
 
