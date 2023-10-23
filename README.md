@@ -17,7 +17,7 @@ Ce tableau présente les technologies que je maîtrise, avec des logos pour les 
 | Technologie | Logo | Description |
 |---|---|---|
 | HTML | ![Logo HTML](https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/167_Html5_logo_logos-40.png)| Langage de balisage hypertexte utilisé pour structurer les pages Web. |
-| CSS | ![Logo CSS](https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-css-3-40.png)| Langage de feuille de style utilisé pour styliser les pages Web. |
+| CSS | ![Logo CSS](https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-css-3-35.png)| Langage de feuille de style utilisé pour styliser les pages Web. |
 | JavaScript | ![Logo JavaScript](https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/JavaScript_logo.svg/256px-JavaScript_logo.svg.png) | Langage de programmation côté client utilisé pour ajouter de l'interactivité aux pages Web. |
 | Node.js | ![Logo Node.js](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Node-js-logo.svg/256px-Node-js-logo.svg.png) | Plateforme de développement JavaScript côté serveur. |
 | Express.js | ![Logo Express.js](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Express_logo.svg/256px-Express_logo.svg.png) | Framework Node.js pour créer des applications Web. |
