@@ -10,15 +10,36 @@ Je suis un développeur frontend passionné par la création d'expériences web 
 - ✉️ **E-mail:** [hamzaharrass05@gmail.com](mailto:hamzaharrass05@gmail.com)
 - ☎️ **Téléphone:** [+212 680927972]
 
-## Technologies que je maîtrise
+# Technologies que je maîtrise
 
-- 💻 HTML
-- 🎨 CSS
-- 🚀 JavaScript
-- 📡 Node.js
-- ⚙️ Express.js
-- ⚛️ React
-- 🖌️ Figma
+## Langages de programmation
+| Technologie          | Logo                                      |
+| --------------------- | ----------------------------------------- |
+| 💻 HTML               | ![HTML Logo](insert HTML logo URL here)   |
+| 🎨 CSS               | ![CSS Logo](insert CSS logo URL here)     |
+| 🚀 JavaScript | ![JavaScript Logo](insert JavaScript logo URL here) |
+
+## Environnements et Frameworks
+| Technologie          | Logo                                      |
+| --------------------- | ----------------------------------------- |
+| 📡 Node.js        | ![Node.js Logo](insert Node.js logo URL here) |
+| ⚙️ Express.js | ![Express.js Logo](insert Express.js logo URL here) |
+| ⚛️ React           | ![React Logo](insert React logo URL here) |
+
+## Conception et Outils
+| Technologie          | Logo                                      |
+| --------------------- | ----------------------------------------- |
+| 🖌️ Figma           | ![Figma Logo](insert Figma logo URL here) |
+
+## Bases de données et Autres Outils
+| Technologie          | Logo                                      |
+| --------------------- | ----------------------------------------- |
+| 📊 MySQL           | ![MySQL Logo](insert MySQL logo URL here) |
+| 📄 MongoDB    | ![MongoDB Logo](insert MongoDB logo URL here) |
+| 📊 SQL               | ![SQL Logo](insert SQL logo URL here) |
+| 📤 Postman   | ![Postman Logo](insert Postman logo URL here) |
+| 🐳 Docker         | ![Docker Logo](insert Docker logo URL here) |
+
 
 ## Ce que je fais
 
