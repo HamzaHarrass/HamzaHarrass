@@ -16,13 +16,13 @@ Ce tableau présente les technologies que je maîtrise, avec des logos pour les 
 
 | Technologie | Logo | Description |
 |---|---|---|
-| HTML | ![Logo HTML](https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/167_Html5_logo_logos-40.png)  | Langage de balisage hypertexte utilisé pour structurer les pages Web. |
-| CSS | ![Logo CSS](https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-css-3-35.png)| Langage de feuille de style utilisé pour styliser les pages Web. |
-| JavaScript | ![Logo JavaScript](https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/JavaScript_logo.svg/256px-JavaScript_logo.svg.png) | Langage de programmation côté client utilisé pour ajouter de l'interactivité aux pages Web. |
-| Node.js | ![Logo Node.js](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Node-js-logo.svg/256px-Node-js-logo.svg.png) | Plateforme de développement JavaScript côté serveur. |
+| HTML | ![Logo HTML](https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/167_Html5_logo_logos-512.png) | Langage de balisage hypertexte utilisé pour structurer les pages Web. |
+| CSS | ![Logo CSS](https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-css-3-50.png) | Langage de feuille de style utilisé pour styliser les pages Web. |
+| JavaScript | ![Logo JavaScript](https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/187_Js_logo_logos-512.png) | Langage de programmation côté client utilisé pour ajouter de l'interactivité aux pages Web. |
+| Node.js | ![Logo Node.js](https://cdn0.iconfinder.com/data/icons/long-shadow-web-icons/512/nodejs-1024.png) | Plateforme de développement JavaScript côté serveur. |
 | Express.js | ![Logo Express.js](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Express_logo.svg/256px-Express_logo.svg.png) | Framework Node.js pour créer des applications Web. |
-| React | ![Logo React](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/React-icon.svg/256px-React-icon.svg.png) | Framework JavaScript pour créer des interfaces utilisateur. |
-| Figma | ![Logo Figma](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Figma_logo.svg/256px-Figma_logo.svg.png) | Application de conception graphique vectorielle. |
+| React | ![Logo React](https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-1024.png) | Framework JavaScript pour créer des interfaces utilisateur. |
+| Figma | ![Logo Figma](https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/3000/figma-logo-1024.png) | Application de conception graphique vectorielle. |
 
 **Technologies ajoutées**
 
