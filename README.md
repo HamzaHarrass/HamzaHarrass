@@ -2,9 +2,9 @@
 
 Je suis un développeur frontend passionné par la création d'expériences web exceptionnelles. Mon objectif est de développer des interfaces utilisateur attrayantes et réactives en utilisant les dernières technologies web.
 
-## À propos de moi
+<h2 align="center"> À propos de moi</h2>
 
-```
+```js
 class Me extends Person {
   constructor() {
     super();
