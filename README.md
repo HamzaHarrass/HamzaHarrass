@@ -23,7 +23,7 @@ class Me extends Person {
 Ce tableau présente les technologies que je maîtrise, avec des logos pour les identifier plus facilement.
 
  <div align="">
-      <img align="right"  alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+      <img align="right"  alt="Coding" width="390" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
   <table>
     <tr>
       <th>💻</th>
