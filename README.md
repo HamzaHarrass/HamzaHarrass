@@ -1,4 +1,4 @@
-![Cover](https://raw.githubusercontent.com/HamzaHarrass/HamzaHarrass/13f43fc1710983d99efdee58ab8980a63b04e2e6/assets/header.svg)
+![Cover](https://raw.githubusercontent.com/HamzaHarrass/HamzaHarrass/8da32c791a5116d8b35eb923753b8a8d125e5c6d/assets/header.svg)
 
 $${\color{red}Bonjour, \space \color{lightblue}je \space suis \space \color{orange}Hamza \space Harrass 👋}$$
 
