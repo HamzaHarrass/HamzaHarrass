@@ -91,15 +91,15 @@ $${\color{orange}Ce \space tableau \space présente \space les \space technologi
 
 
 
-$${\color{lightblue}💻\space Je \space crée\color{white} \space des \space sites \space web \space modernes \space et \space conviviaux.}$$
+$${💻\space Je \space crée \space des \space sites \space web \space modernes \space et \space conviviaux.}$$
 
 
 
-$${\color{lightblue}🚀J'aime \space \color{white} travailler \space avec \space des \space frameworks \space et \space des \space bibliothèques \space frontend \space pour \space optimiser \space le \space développement.}$$
+$${🚀J'aime \space  travailler \space avec \space des \space frameworks \space et \space des \space bibliothèques \space frontend \space pour \space optimiser \space le \space développement.}$$
 
 
 
-$${\color{lightblue}📚Je\space suis \space  \color{white} toujours \space en \space train \space d'apprendre \space de \space nouvelles \space choses \space et \space de \space rester \space à \space jour \space avec \space les \space dernières \space tendances \space en \space développement \space web.}$$
+$${📚Je\space suis \space   toujours \space en \space train \space d'apprendre \space de \space nouvelles \space choses \space et \space de \space rester \space à \space jour \space avec \space les \space dernières \space tendances \space en \space développement \space web.}$$
 
 
 <h2 align="center"">Comment me contacter</h2>
