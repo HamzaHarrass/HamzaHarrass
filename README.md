@@ -2,10 +2,10 @@
 
 $${\color{red}Bonjour, \space \color{lightblue}je \space suis \space \color{orange}Hamza \space Harrass 👋}$$
 
-$${\color{white}je \space suis \space un \space développeur \space frontend \space passionné \space par \space la \space création \space d'expériences \space web \space exceptionnelles.}$$
+$${je \space suis \space un \space développeur \space frontend \space passionné \space par \space la \space création \space d'expériences \space web \space exceptionnelles.}$$
 
 
-$${ \color{white}Mon \space objectif \space est \space de \space développer \space des \space interfaces \space utilisateur \space attrayantes \space et \space réactives \space en \space utilisant \space  les \space  dernières \space  technologies \space web.}$$
+$${Mon \space objectif \space est \space de \space développer \space des \space interfaces \space utilisateur \space attrayantes \space et \space réactives \space en \space utilisant \space  les \space  dernières \space  technologies \space web.}$$
 
 
 
