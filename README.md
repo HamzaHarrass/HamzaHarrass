@@ -17,7 +17,7 @@ class Me extends Person {
   constructor() {
     super();
     this.name = "Hamza Harrass";
-    this.profession = "Développeur Frontend";
+    this.profession = "Développeur Full Stack";
     this.location = "MAROC - MEKNES";
     this.email = "hamzaharrass05@gmail.com";
     this.phone = "+212 680927972";
