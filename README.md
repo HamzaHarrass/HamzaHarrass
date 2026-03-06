@@ -1,130 +1,170 @@
-![Cover](https://raw.githubusercontent.com/HamzaHarrass/HamzaHarrass/d15d469cf0adeb2a2824e3cd8faa5d26d7a14e5e/assets/header.svg)
+<div align="center">
 
-$${\color{red}Bonjour, \space \color{lightblue}je \space suis \space \color{orange}Hamza \space Harrass 👋}$$
+<!-- Animated header -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=HAMZA%20HARRASS&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=MERN%20Stack%20%26%20Mobile%20Developer&descAlignY=58&descColor=a78bfa&animation=fadeIn"/>
 
-$${je \space suis \space un \space développeur \space frontend \space passionné \space par \space la \space création \space d'expériences \space web \space exceptionnelles.}$$
+<!-- Typing animation -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Full+Stack+JavaScript+Developer;MERN+Stack+%26+Mobile+Expert;UI%2FUX+Craftsman;Always+learning%2C+always+building+%F0%9F%9A%80" alt="Typing SVG" />
+</a>
 
+<br/><br/>
 
-$${Mon \space objectif \space est \space de \space développer \space des \space interfaces \space utilisateur \space attrayantes \space et \space réactives \space en \space utilisant \space  les \space  dernières \space  technologies \space web.}$$
+<!-- Social badges -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamzahrs/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HamzaHarrass)
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hamzaharrass05@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-a78bfa?style=for-the-badge&logo=vercel&logoColor=white)](#)
 
-
-
-
-<h2 align="center"> À propos de moi</h2>
-
-```js
-class Me extends Person {
-  constructor() {
-    super();
-    this.name = "Hamza Harrass";
-    this.profession = "Développeur Full Stack";
-    this.location = "MAROC - MEKNES";
-    this.email = "hamzaharrass05@gmail.com";
-    this.phone = "+212 680927972";
-  }
-}
-```
-
-<h2 align="center"">Technologies maîtrisées 💻</h2>
-
-$${\color{orange}Ce \space tableau \space présente \space les \space technologies \space que \space je \space maîtrise,\space avec \space des \space logos \space pour \space les \space identifier \space plus \space facilement.}$$
-
-
- <div align="">
-      <img align="right"  alt="Coding" width="395" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-  <table>
-    <tr>
-      <th>💻</th>
-      <th>Technology</th>
-    </tr>
-    <tr>
-      <td>LANGUAGES</td>
-      <td>
-        <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-        <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-        <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
-      </td>
-    </tr>
-    <tr>
-      <td>FRONTEND</td>
-      <td>
-        <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-        <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
-        <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
-        <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a>
-      </td>
-    </tr>
-    <tr>
-      <td>BACKEND</td>
-      <td>
-        <a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="36" height="36" alt="Laravel" /></a>
-        <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-        <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" width="36" height="36" alt="Express" /></a>
-      </td>
-    </tr>
-    <tr>
-      <td>DATABASE</td>
-      <td>
-        <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-        <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
-      </td>
-    </tr>
-    <tr>
-      <td>TOOLS</td>
-      <td>
-        <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width="36" height="36" alt="Visual Studio Code" /></a>
-        <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="36" height="36" alt="git" /></a>
-        <a href="https://www.github.com/h" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="36" height="36" /></a>
-        <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
-        <a href="https://staruml.io/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/112888267/229631421-ab236291-6e57-4962-8e68-5a3f87763369.png" width="36" height="36" alt="StarUML" /></a>
-        <a href="https://www.postman.com/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/112888267/219393706-d9c7e234-c622-4112-89a0-154dd1d90b96.svg" width="36" height="36" alt="Postman" /></a>
-        <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/112888267/221143450-267c3265-caab-4b3a-a93d-22309917e22e.png" width="36" height="36" alt="jira" /></a>
-        <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a>
-      </td>
-    </tr>
-  </table>
 </div>
 
+---
 
-<h2 align="center"">Ce que je fais</h2>
+## 👨‍💻 About Me
 
+```typescript
+const hamza: Developer = {
+  name:       "Hamza Harrass",
+  role:       "MERN Stack & Mobile Developer",
+  location:   "Meknès, Maroc 🇲🇦",
+  phone:      "+212 680927972",
+  email:      "hamzaharrass05@gmail.com",
 
+  stack: {
+    frontend:  ["React.js", "React Native", "TailwindCSS", "TypeScript"],
+    backend:   ["Node.js", "Express.js", "Laravel", "NestJS"],
+    database:  ["MongoDB", "MySQL", "PostgreSQL"],
+    devops:    ["Docker", "Git", "GitHub", "CI/CD"],
+  },
 
-$${💻\space Je \space crée \space des \space sites \space web \space modernes \space et \space conviviaux.}$$
+  currentFocus:  "Building scalable mobile & web apps",
+  available:     true,   // Open to opportunities 🟢
+};
+```
 
+---
 
+## 🛠️ Tech Stack
 
-$${🚀J'aime \space  travailler \space avec \space des \space frameworks \space et \space des \space bibliothèques \space frontend \space pour \space optimiser \space le \space développement.}$$
+<div align="center">
 
+### 🎨 Frontend
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-CC6699?style=flat-square&logo=sass&logoColor=white)
 
+### ⚙️ Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 
-$${📚Je\space suis \space   toujours \space en \space train \space d'apprendre \space de \space nouvelles \space choses \space et \space de \space rester \space à \space jour \space avec \space les \space dernières \space tendances \space en \space développement \space web.}$$
+### 🗄️ Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
+### 🔧 Tools & DevOps
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
 
-<h2 align="center"">Comment me contacter</h2>
+</div>
 
+---
 
+## 💼 Professional Experience
 
+<table>
+  <tr>
+    <td width="200"><strong>Aug 2024 – Feb 2025</strong><br/><sub>Casablanca, Maroc</sub></td>
+    <td>
+      <strong>🚀 Auto Entrepreneur – Mobile Developer</strong><br/>
+      <em>Atelier Digital – Digital Agency & AI</em><br/>
+      Built <strong>Buzztest</strong> — a platform connecting brands, content creators, influencers & testers. Mobile app allows influencers to browse and apply to campaigns.
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Apr 2024 – Jul 2024</strong><br/><sub>Casablanca, Maroc</sub></td>
+    <td>
+      <strong>📱 Internship – Mobile Developer</strong><br/>
+      <em>Atelier Digital – Digital Agency & AI</em><br/>
+      Developed the Buzztest mobile application from scratch using React Native.
+    </td>
+  </tr>
+  <tr>
+    <td><strong>May 2023 – Jul 2023</strong><br/><sub>Meknès, Maroc</sub></td>
+    <td>
+      <strong>🛒 Internship – Full Stack Developer</strong><br/>
+      <em>GENERATION NT</em><br/>
+      Built a full E-Commerce platform inspired by Jumia — intuitive UI with advanced Full Stack functionalities.
+    </td>
+  </tr>
+  <tr>
+    <td><strong>May 2021 – Jun 2021</strong><br/><sub>Tan-Tan, Maroc</sub></td>
+    <td>
+      <strong>🏛️ Internship – Full Stack Developer</strong><br/>
+      <em>Trésorerie Générale</em><br/>
+      Developed an innovative certificate management application tailored to specific client needs.
+    </td>
+  </tr>
+</table>
 
-$${\color{orange}Vous \space me \space contacter \space  via \space }$$ 
+---
 
-[![](https://img.shields.io/badge/github-blueviolet?style=for-the-badge)](https://github.com/HamzaHarrass)
-[![](https://img.shields.io/badge/Email-Me%20Now-red?style=for-the-badge)](mailto:hamzaharrass05@gmail.com)
-[![](https://img.shields.io/badge/LinkedIn-Connect%20with%20Me-blue?style=for-the-badge)](https://www.linkedin.com/in/hamzahrs/)
+## 🎓 Education
 
+| Period | Degree | Institution |
+|--------|--------|-------------|
+| 2022 – 2024 | **Bac+4 – Application Developer** (RNCP37873) | Simplon / YouCode – UM6P, Youssoufia |
+| 2019 – 2021 | **Specialized Technician – IT Development** | ISTA, Tan-Tan |
+| 2018 – 2019 | **Baccalauréat – Life & Earth Sciences** | Lycée Al Qods, Tan-Tan |
 
+---
 
+## 📊 GitHub Stats
 
+<div align="center">
 
-***N'hésitez pas à m'envoyer un message si vous souhaitez discuter de projets, de collaborations ou simplement discuter de développement web.***
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=HamzaHarrass&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HamzaHarrass&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
 
-***N'hésitez pas à explorer mes projets GitHub pour en savoir plus sur mes travaux et compétences. Je suis toujours ouvert aux opportunités de collaboration et d'apprentissage !***
+<br/>
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=HamzaHarrass&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
+</div>
 
+---
 
-$${\color{wihte}Merci \space d'avoir \space visité \space mon \space profil. \space 😊}$$
+## 🏆 Certifications
 
+- 🏅 **SQL** — Database Querying & Management
+- 🏅 **Microsoft Office Excel 2016**
 
+---
 
+## 🎯 Interests
+
+> ✈️ **Travel** &nbsp;|&nbsp; ⚽ **Football** &nbsp;|&nbsp; 🎮 **Gaming** &nbsp;|&nbsp; 💪 **Gym**
+
+---
+
+<div align="center">
+
+<!-- Footer wave -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/>
+
+<sub>💜 Always open to collaboration & new opportunities — don't hesitate to reach out!</sub>
+
+</div>
